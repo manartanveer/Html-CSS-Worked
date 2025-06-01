@@ -1,0 +1,41 @@
+h1 {
+color: darkgrey;
+}
+body {
+    background-color: #f9f9f9;
+}
+table {
+    border-collapse: collapse;
+    margin: top 20px; 
+    width: 100;
+}
+  th,td {
+     background-color: #6fa9d8;
+    border: 1px solid #ccc;
+    padding : 10px;  
+    text-align : center;
+}
+.form-container{
+    margin-top: 30px;
+    padding: auto;
+    border-color: #fff;
+
+}
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    th, td {
+      border: 1px solid black;
+      padding: 12px;
+      text-align: center;
+      background-color: #69a6cc; /* Light blue background */
+    }
+    th {
+      background-color: #4682b4; /* Darker blue for header */
+      color: white;
+      font-weight: bold;
+    }
+    td:first-child {
+      font-weight: bold;
+    }
